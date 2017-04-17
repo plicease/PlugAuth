@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use 5.010001;
 use Log::Log4perl qw(:easy);
-use Clustericious::Client;
+use Clustericious::Client 1.06;
 
 # ABSTRACT: PlugAuth Client
 # VERSION
